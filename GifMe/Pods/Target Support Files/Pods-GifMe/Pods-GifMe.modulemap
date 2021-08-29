@@ -1,0 +1,6 @@
+framework module Pods_GifMe {
+  umbrella header "Pods-GifMe-umbrella.h"
+
+  export *
+  module * { export * }
+}

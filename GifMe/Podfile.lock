@@ -1,0 +1,38 @@
+PODS:
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - LHSCategoryCollection (0.0.22)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - BlocksKit (~> 2.2)
+  - LHSCategoryCollection (~> 0.0)
+  - SVProgressHUD (~> 2.1)
+
+SPEC REPOS:
+  trunk:
+    - BlocksKit
+    - LHSCategoryCollection
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  LHSCategoryCollection: 738329e3b0f67a5f981c6e3eb102ce841c6e5ab6
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: b3e9a39e404349000f17bc0cd04f228d75afe30a
+
+COCOAPODS: 1.10.1

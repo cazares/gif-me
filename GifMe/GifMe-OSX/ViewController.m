@@ -2,7 +2,7 @@
 //  ViewController.m
 //  GifMe-OSX
 //
-//  Copyright (c) 2015 Sebastian Dobrincu. All rights reserved.
+//  Copyright (c) 2015 Miguel Cazares. All rights reserved.
 //
 
 #import "ViewController.h"

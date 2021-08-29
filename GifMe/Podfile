@@ -1,0 +1,10 @@
+platform :ios, '11.0'
+
+inhibit_all_warnings!
+
+target 'GifMe' do
+  pod 'LHSCategoryCollection', '~> 0.0'
+  pod 'BlocksKit', '~> 2.2'
+  pod 'SVProgressHUD', '~> 2.1'
+  use_frameworks!
+end

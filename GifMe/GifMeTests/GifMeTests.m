@@ -2,8 +2,8 @@
 //  GifMeTests.m
 //  GifMeTests
 //
-//  Created by Sebastian Dobrincu on 30/08/15.
-//  Copyright (c) 2015 Sebastian Dobrincu. All rights reserved.
+//  Created by Miguel Cazares on 30/08/15.
+//  Copyright (c) 2015 Miguel Cazares. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

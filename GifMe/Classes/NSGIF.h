@@ -1,7 +1,7 @@
 //
 //  NSGIF.h
 //
-//  Created by Sebastian Dobrincu
+//  Created by Miguel Cazares
 //
 
 #import <Foundation/Foundation.h>

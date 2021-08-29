@@ -2,13 +2,16 @@
 //  AppDelegate.m
 //  GifMe
 //
-//  Created by Sebastian Dobrincu on 30/08/15.
-//  Copyright (c) 2015 Sebastian Dobrincu. All rights reserved.
+//  Created by Miguel Cazares on 30/08/15.
+//  Copyright (c) 2015 Miguel Cazares. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "GifMeViewController.h"
 
 @interface AppDelegate ()
+
+@property (nonatomic, strong) GifMeViewController *gifMeViewController;
 
 @end
 
@@ -16,7 +19,10 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    self.gifMeViewController = [[GifMeViewController alloc] init];
+    self.window.rootViewController = self.gifMeViewController;
+    [self.window makeKeyAndVisible];
     return YES;
 }
 
