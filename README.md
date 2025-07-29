@@ -1,7 +1,7 @@
 # GifMe iOS (Fully Native)
 iOS app that generates a local gif from the iPhone/iPad's camera to then caption and send to your friends!
 
-Sample GifMe output:
+Actual GifMe output (generated locally on the iOS device itself):
 
 ![Sample GifMe output](http://cazares.github.io/images/gif-me-output-demo.GIF)
 
