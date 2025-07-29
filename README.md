@@ -3,8 +3,8 @@ iOS app that generates a local gif from the iPhone/iPad's camera to then caption
 
 Actual GifMe output (generated locally on the iOS device itself):
 
-![Sample GifMe output](http://cazares.github.io/images/gif-me-output-demo.GIF)
+![Sample GifMe output](https://cazares.github.io/images/gif-me-output-demo.GIF)
 
 And here's a quick demo of the actual GifMe app usage and sharing a GifMe gif:
 
-![Sample GifMe Input](http://cazares.github.io/images/gif-me-usage-demo-gif.gif)
+![Sample GifMe Input](https://cazares.github.io/images/gif-me-usage-demo-gif.gif)
